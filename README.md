@@ -13,11 +13,11 @@ Autodesk fusion 360 assembly of a mincing machine, along with a CAE analysis of 
 
 ## CAM:
  <p align="center">
-  <img src="images\CAM_sample_1.PNG" alt="alt text" width="300" height="300">
+  <img src="images\CAM_sample_1.PNG" alt="alt text" width="400" height="400">
 </p>
 
  <p align="center">
-  <img src="images\CAM_sample_2.PNG" alt="alt text" width="300" height="300">
+  <img src="images\CAM_sample_2.PNG" alt="alt text" width="200" height="350">
 </p>
 
 
